@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286877660588",
+    "project_id": "watchvers",
+    "storage_bucket": "watchvers.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286877660588:android:9a13ea0fcd3b255c78b609",
+        "android_client_info": {
+          "package_name": "com.example.watch_verse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGFxFp4xsSn9UBzPTN-fbBXmHCGtbGh-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
